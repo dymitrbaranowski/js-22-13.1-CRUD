@@ -378,6 +378,33 @@
         "CSS"
       ],
       "rating": 9
+    },
+    {
+      "id": "e4bd",
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "d3ca",
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7
+    },
+    {
+      "id": "6fa5",
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
     }
   ]
 }
