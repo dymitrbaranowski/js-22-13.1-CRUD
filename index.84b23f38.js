@@ -1,2 +1,0 @@
-!function(){function t(t){var n={method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(t)};return fetch("".concat("http://localhost:4040","/books"),n).then((function(t){return t.json()}))}function n(t){console.log("Пришел ответ от бекенда можно рисовать"),console.log(t)}t({title:"Тестовая книга по CSS",author:"Я",genres:["CSS"],rating:9}).then(n),t({title:"Тестовая книга по HTML",author:"Я",genres:["HTML"],rating:7}).then(n)}();
-//# sourceMappingURL=index.84b23f38.js.map

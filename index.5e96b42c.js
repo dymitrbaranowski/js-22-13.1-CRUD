@@ -1,2 +1,0 @@
-function t(t){const n={method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(t)};return fetch("http://localhost:4040/books",n).then((t=>t.json()))}function n(t){console.log("Пришел ответ от бекенда можно рисовать"),console.log(t)}t({title:"Тестовая книга по CSS",author:"Я",genres:["CSS"],rating:9}).then(n),t({title:"Тестовая книга по HTML",author:"Я",genres:["HTML"],rating:7}).then(n);
-//# sourceMappingURL=index.5e96b42c.js.map
